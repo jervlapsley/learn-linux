@@ -1,4 +1,4 @@
-# learn-linux ![linux logo](https://pop.system76.com/icon-512.png)
+# learn-linux <img src="https://pop.system76.com/icon-512.png" alt="pop!_OS logo" width="200"/>
 
 this repo will host a collection of notes, projects and resources used for improving my linux skills. 
 
