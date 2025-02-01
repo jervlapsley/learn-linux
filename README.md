@@ -2,7 +2,6 @@
 
 this repo will host a collection of notes, projects and resources used for improving my linux skills. 
 
-## learning path (with resources)
 ## intro
 #### learn git
 - [ ] Github Foundations: DataCamp
