@@ -3,6 +3,7 @@
 this repo will host a collection of notes, projects and resources used for improving my linux skills. 
 
 ## intro
+- [x] Install a Distro - Pop!_OS
 #### learn git
 - [ ] Github Foundations: DataCamp
 #### books
@@ -10,10 +11,14 @@ this repo will host a collection of notes, projects and resources used for impro
 - [ ] Linux Basics for Hackers 
 
 ## intermediate
-- [ ] item 1
+- [ ] Linux Administration - Jason Cannon (Udemy)
 #### books
 - [ ] How Linux Works
 ## advanced
-- [ ] item 1
+- [ ] LinuxUpSkill Challenge (Server Admin)
+- [ ] Linux for Network Engineers
 
 ## projects
+- [ ] Setup OpenVPN
+- [ ] Install a NAS (Cloud)
+- [ ] Achieve RHCSA
