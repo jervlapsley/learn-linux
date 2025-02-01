@@ -4,10 +4,11 @@ this repo will host a collection of notes, projects and resources used for impro
 
 ## learning path (with resources)
 ### intro
-- [ ] learn git
-- [ ]  Github Foundations: DataCamp
-- [ ]  (book) The Linux Command Line
-- [ ]  (book) Linux Basics for Hackets
+#### learn git
+- [ ] Github Foundations: DataCamp
+#### books
+- [ ] The Linux Command Line 
+- [ ] Linux Basics for Hackets 
 
 ### intermediate
 - [ ] item 1
