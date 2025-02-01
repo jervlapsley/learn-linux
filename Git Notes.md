@@ -7,7 +7,7 @@ Git is a version control system. Used to store, track and manage code and files
 	- `. OR --all` adds all files to the staging area
 - `git commit` - saves (or commits) a file to the repo
 
-	- >[!TIP]
+	>[!TIP]
 	  >it is recommended that present tense is used and keep it consistent throughout a project
 	- `-m` adds a commit message 
 - `git status` - shows status of the staging and working area
