@@ -3,17 +3,17 @@
 this repo will host a collection of notes, projects and resources used for improving my linux skills. 
 
 ## learning path (with resources)
-### intro
+## intro
 #### learn git
 - [ ] Github Foundations: DataCamp
 #### books
 - [ ] The Linux Command Line 
 - [ ] Linux Basics for Hackets 
 
-### intermediate
+## intermediate
 - [ ] item 1
 
-### advanced
+## advanced
 - [ ] item 1
 
 ## projects
