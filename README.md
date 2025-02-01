@@ -7,11 +7,12 @@ this repo will host a collection of notes, projects and resources used for impro
 - [ ] Github Foundations: DataCamp
 #### books
 - [ ] The Linux Command Line 
-- [ ] Linux Basics for Hackets 
+- [ ] Linux Basics for Hackers 
 
 ## intermediate
 - [ ] item 1
-
+#### books
+- [ ] How Linux Works
 ## advanced
 - [ ] item 1
 
