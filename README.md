@@ -3,15 +3,15 @@
 this repo will host a collection of notes, projects and resources used for improving my linux skills. 
 
 ## intro
-- [x] Install a Distro - Pop!_OS
+- [x] Install a Distro: Pop!_OS
 #### learn git
 - [ ] Github Foundations: DataCamp
 #### books
-- [ ] The Linux Command Line 
-- [ ] Linux Basics for Hackers 
+- [ ] The Linux Command Line: 
+- [ ] Linux Basics for Hackers: 
 
 ## intermediate
-- [ ] Linux Administration - Jason Cannon (Udemy)
+- [ ] Linux Administration: Jason Cannon (Udemy)
 #### books
 - [ ] How Linux Works
 ## advanced
