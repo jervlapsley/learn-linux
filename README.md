@@ -2,14 +2,23 @@
 
 this repo will host a collection of notes, projects and resources used for improving my linux skills. 
 
-## learning path (with resources)
-### intro
-- [ ] item 1
+## intro
+- [x] Install a Distro: Pop!_OS
+#### learn git
+- [ ] Github Foundations: DataCamp
+#### books
+- [ ] The Linux Command Line: 
+- [ ] Linux Basics for Hackers: 
 
-### intro
-- [ ] item 1
-
-### intro
-- [ ] item 1
+## intermediate
+- [ ] Linux Administration: Jason Cannon (Udemy)
+#### books
+- [ ] How Linux Works
+## advanced
+- [ ] LinuxUpSkill Challenge (Server Admin)
+- [ ] Linux for Network Engineers
 
 ## projects
+- [ ] Setup OpenVPN
+- [ ] Install a NAS (Cloud)
+- [ ] Achieve RHCSA
