@@ -10,16 +10,37 @@ Git is a version control system. Used to store, track and manage code and files
 - `git status` shows status of the staging and working area
 ####  Version History
 - `git log`
-- `git diff`
-- `git revert` 
-	- `-n`
-	- `--no-edit` 
-- `git checkout` 
+- `git diff` shows differences between commits
+- `git revert` reverts entire repo to a previous commit
+	- `-n` no commit occurs when reverting
+	- `--no-edit` no commit message added
+- `git checkout` reverts a single file 
 - `git restore`  remove file from staging area
 	- `git restore --staged <filename>`
 
-#### Branching
+#### Branches
 - `git branch` lists the current branches
 	- `*<filename>`  identifies the current branch
 - `git branch <name>` creates a new branch
+	- `-m <current-name> <new-name>` renames a branch
+	- `-d <name>` deletes a branch  
+	- `-D <name>` forcibly deletes a branch
+	- **delete branches when they are no longer in use.** 
 - `git switch <branch-name>` switches to a branch
+	- `-c` creates, then switches to the newly created branch
+- `git diff` shows differences between branches 
+- ##### Merging
+	`<source-branch>` - the branch being merged
+	`<destination-branch>` the branch being merged into (usually main/master)
+	switch to the `<destination-branch>`, then run the merge
+- `git merge <source>` 
+- *avoid editing the same files in multiple branches*
+#### Remote
+	remote repos are stored on a remote server, allows for collaboration between teams
+- `git remote add <remote-name>` adds a name for a remote repo
+- `git remote -v` lists all remotes
+- `git clone` clones a  repo
+- `get fetch origin` fetch all remotes from 
+- `git merge` merges from remote
+	- `git pull` fetches and merges
+- `git push`push local to remote
