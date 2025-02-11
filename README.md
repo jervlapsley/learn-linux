@@ -5,7 +5,7 @@ this repo will host a collection of notes, projects and resources used for impro
 ## intro
 - [x] Install a Distro: Pop!_OS
 #### learn git
-- [ ] Github Foundations: DataCamp
+- [x] Github Foundations: DataCamp
 #### books
 - [ ] The Linux Command Line: 
 - [ ] Linux Basics for Hackers: 
