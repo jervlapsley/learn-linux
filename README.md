@@ -1,4 +1,4 @@
-# learn-linux <img src="https://pop.system76.com/icon-512.png" alt="pop!_OS logo" width="30" />
+# learn-linux <img src="https://static-00.iconduck.com/assets.00/pop-os-icon-1024x1024-fkxjblux.png" alt="pop!_OS logo" width="30" />
 
 this repo will host a collection of notes, projects and resources used for improving my linux skills. 
 
