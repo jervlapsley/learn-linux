@@ -4,11 +4,12 @@ this repo will host a collection of notes, projects and resources used for impro
 
 ## intro
 - [x] Install a Distro: Pop!_OS
-#### learn git
+#### learn [[Git]]
 - [x] Github Foundations: DataCamp
+
 #### books
 - [ ] cmd: vimtutor
-- [ ] The Linux Command Line: 
+- [ ] [[Linux Command Line]]
 - [ ] Linux Basics for Hackers: 
 
 ## intermediate
